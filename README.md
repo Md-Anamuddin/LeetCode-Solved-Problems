@@ -7,6 +7,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
