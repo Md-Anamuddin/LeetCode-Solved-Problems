@@ -51,6 +51,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,5 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
