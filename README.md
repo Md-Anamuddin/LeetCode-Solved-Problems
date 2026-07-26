@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
