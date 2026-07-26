@@ -25,6 +25,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
