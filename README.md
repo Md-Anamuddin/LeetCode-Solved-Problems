@@ -29,6 +29,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -59,12 +60,14 @@
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
