@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,5 +85,6 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
