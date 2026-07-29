@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
