@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
