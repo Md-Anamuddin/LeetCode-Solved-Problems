@@ -120,16 +120,20 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
