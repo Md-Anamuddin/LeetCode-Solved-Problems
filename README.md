@@ -116,4 +116,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
