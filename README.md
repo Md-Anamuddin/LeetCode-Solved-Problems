@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -136,4 +137,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
