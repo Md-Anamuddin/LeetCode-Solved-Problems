@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -118,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Tree
 |  |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
