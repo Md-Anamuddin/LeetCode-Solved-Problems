@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0682-baseball-game) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Tree
 |  |
@@ -161,4 +164,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
