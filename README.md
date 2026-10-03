@@ -87,6 +87,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -126,12 +127,14 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -143,6 +146,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search
 |  |
@@ -152,6 +156,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
