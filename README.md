@@ -77,6 +77,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Monotonic Stack
 |  |
@@ -106,6 +107,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Md-Anamuddin/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
